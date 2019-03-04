@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (lle)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="随机漫步" />
+    <orderEntry type="module" module-name="模拟掷骰子" />
+    <orderEntry type="module" module-name="绘制气温图表" />
+    <orderEntry type="module" module-name="制作世界人口地图" />
+    <orderEntry type="module" module-name="使用WEB API" />
+    <orderEntry type="module" module-name="learning_log" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
